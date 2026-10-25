@@ -1,0 +1,12 @@
+{
+    "autodeskProduct": "Fusion",
+    "type": "script",
+    "id": "5d1a62c0-7c3b-4b44-9a1e-3c0b52f1a7d4",
+    "author": "",
+    "description": {
+        "": "360 degree turn rendered with Fusion's local ray tracing: the scan first, then shell, bezel and stand"
+    },
+    "version": "1.0.0",
+    "supportedOS": "windows|mac",
+    "editEnabled": true
+}

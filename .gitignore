@@ -1,0 +1,5 @@
+# Intermediate PNG frames of the video: rebuilt, see docs/video-pipeline.md
+video/frames/
+video/scratch/
+scratch/
+**/run.log

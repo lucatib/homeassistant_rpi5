@@ -1,0 +1,7 @@
+# Fusion archives, STEP files and textures are already compressed or binary
+*.f3d binary
+*.f3z binary
+*.step binary
+*.stp binary
+*.png binary
+*.mp4 binary
